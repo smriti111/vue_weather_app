@@ -43,7 +43,7 @@ export default {
     return{
       api_key:"473f273f1c212ccc98b35b1b1580d3c6",
       query:"",
-      url:"http://api.openweathermap.org/data/2.5/",
+      url:"https://api.openweathermap.org/data/2.5/",
       weather:[],
       temp:"",
       weather_type:"",
